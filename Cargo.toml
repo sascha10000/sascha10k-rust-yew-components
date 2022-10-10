@@ -1,0 +1,9 @@
+[package]
+license = "MIT"
+description = "Components to use in yew"
+readme="REAMDE.md"
+
+[workspace]
+members = [
+    "sascha-10-post-message-input"
+]
